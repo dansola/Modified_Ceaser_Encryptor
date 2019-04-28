@@ -17,7 +17,7 @@ To increase the difficulty of a human realizing the pattern of this modified Cea
 Valid Encryption/Decryption:
 ![alt text](https://github.com/dansola/Modified_Ceaser_Encryptor/blob/master/Images/Encryption_Example.png)
 
-Inalid Encryption/Decryption:
+Invalid Encryption/Decryption:
 ![alt text](https://github.com/dansola/Modified_Ceaser_Encryptor/blob/master/Images/Invalid_Example.png)
 
 As seen in the image above, a user is not allowed to encrypt a password containing spaces or other invalid characters.  Similarly, the user is not able to decrypt an invalid encryption.  The encryption is considered invalid of it contains invalid characters, or if a number does not follow a character.
